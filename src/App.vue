@@ -1,12 +1,14 @@
 <script setup>
 import NavBar from './components/NavBar.vue'
 import HeroSection from './components/HeroSection.vue'
+import Carousel from './components/Carousel.vue'
 import Footer from './components/Footer.vue'
 </script>
 
 <template>
   <NavBar></NavBar>
   <HeroSection></HeroSection>
+  <Carousel></Carousel>
   <Footer></Footer>
 </template>
 
