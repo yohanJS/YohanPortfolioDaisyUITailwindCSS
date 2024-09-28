@@ -1,11 +1,13 @@
 <script setup>
 import NavBar from './components/NavBar.vue'
 import HeroSection from './components/HeroSection.vue'
+import Footer from './components/Footer.vue'
 </script>
 
 <template>
   <NavBar></NavBar>
   <HeroSection></HeroSection>
+  <Footer></Footer>
 </template>
 
 <style scoped>
